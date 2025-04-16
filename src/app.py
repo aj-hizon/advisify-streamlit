@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
 
 # Load stored embeddings
-df = pd.read_csv("advisers_data.csv")
+df = pd.read_csv("advisers_dummy_data.csv")
 
 # Load embedding model
 model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")

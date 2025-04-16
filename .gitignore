@@ -2,3 +2,4 @@ venv/
 src/generate_embeddings.py
 *.parquet
 *.csv
+!src/advisers_dummy_data.csv
