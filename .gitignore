@@ -1,0 +1,4 @@
+venv/
+src/generate_embeddings.py
+*.parquet
+*.csv
