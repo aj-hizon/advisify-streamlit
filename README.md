@@ -100,9 +100,6 @@ The file `advisers_data.csv` must contain the following columns:
 - Integration with actual thesis management systems
 - Feedback loop to improve matching quality
 
-## 🧑‍🏫 About the Developer
-
-Built by **Andre**, a 4th-year BSCS student passionate about applying **AI and NLP** to solve real-world academic problems.
 
 ---
 
